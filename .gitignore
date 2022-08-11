@@ -1,0 +1,7 @@
+src
+target
+out
+.idea
+*.iml
+*.xml
+notes.txt
